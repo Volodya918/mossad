@@ -1,0 +1,4 @@
+# Добавьте новый с SSH‑URL
+git remote add origin git@github.com:Volodya918/TestCICD.git
+
+# Проверьте
